@@ -1,7 +1,6 @@
 ## Hi there 👋
-# Kunal Raghav  
- [![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](www.linkedin.com/in/maxi-gonzalez-479691323) [![Medium Badge](https://img.shields.io/badge/-@KunalRaghav-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@KunalRaghav/)](https://medium.com/@KunalRaghav/)
-[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:gonzalezmaxi997@gmail.com)
+# MAXIMILIANO GONZALEZ   
+
 
 ## Hi 👋, 
 I'm Max Gonzalez, I'm a web programador begginer 👨‍💻 who is passionate about technologies and open source. I'm also a self proclaimed graphic designer and internet surfer 

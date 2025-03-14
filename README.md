@@ -6,7 +6,7 @@
 
 - 🎓 I'm **Max Gonzalez**, a beginner web programmer passionate about technology and open-source development.  
 - 📚 Currently learning **SQL** and **MySQL**, while enhancing my skills in **Python** , **Django** and **Reflex**
-- 💼 **Currently creating a course** about **finance and trading from scratch**, aimed at helping beginners understand the fundamentals.
+- 💼 **Currently creating a course** about **finance and trading from scratch**, aimed at helping beginners learn how to save, be more efficient, and operate in the market.
 - 💻 Familiar with React concepts through building apps with Reflex (Python framework).  
 - 🌐 Check out [**my portfolio website**](https://your-website-link.com) for more about my work and projects!  
 - 📩 Feel free to **reach out** via [Email](mailto:gonzalezmaxi997@gmail.com).  

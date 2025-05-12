@@ -5,11 +5,17 @@
 <picture><img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"></picture>
 
 - 🎓​ **Formación:** Estudiando y mejorando mis habilidades en desarrollo web.  
+
 - 📚 **Aprendiendo actualmente:** SQL, MySQL, y profundizando en Python, Django y Reflex.
+
 - 💼 **Proyecto destacado:** Acabo de lanzar un curso interactivo de finanzas y trading para principiantes, diseñado para enseñar cómo ahorrar, invertir de manera eficiente y evitar estafas financieras.
+
 - 💻 **Experiencia con React:** Familiarizado con conceptos de React a través de proyectos construidos con Reflex (un framework Python para aplicaciones web).  
+
 - 🌐 **Portafolio:** Explora más sobre mí y mis proyectos en mi sitio web (mi-web-neon-book.reflex.run).  
+
 - 📩 **Contáctame:** Si quieres colaborar o tienes una oportunidad laboral, escríbeme a gonzalezmaxi997@gmail.com (mailto:gonzalezmaxi997@gmail.com).  
+
 - 🧠 **Lema:** "Crea tu futuro"
 
 ---

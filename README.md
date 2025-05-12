@@ -47,7 +47,7 @@
  
  *Email:* gonzalezmaxi997@gmail.com (mailto:gonzalezmaxi997@gmail.com)
 
- *Portafolio:* mi-web-neon-book.reflex.run
+ *Portafolio:* [mi-web-neon-book.reflex.run]
 
  *LinkedIn:* [www.linkedin.com/in/maximiliano-gonzalez-479691323]
 

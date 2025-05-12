@@ -12,7 +12,7 @@
 
 - 💻 **Experiencia con React:** Familiarizado con conceptos de React a través de proyectos construidos con Reflex (un framework Python para aplicaciones web).  
 
-- 🌐 **Portafolio:** Explora más sobre mí y mis proyectos en mi sitio web (mi-web-neon-book.reflex.run).  
+- 🌐 **Portafolio:** Explora más sobre mí y mis proyectos en mi sitio web. [mi-web-neon-book.reflex.run].  
 
 - 📩 **Contáctame:** Si quieres colaborar o tienes una oportunidad laboral, escríbeme a gonzalezmaxi997@gmail.com (mailto:gonzalezmaxi997@gmail.com).  
 
